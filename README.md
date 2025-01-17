@@ -228,6 +228,3 @@ docker-compose:
 - PostgreSQL
 - Angular (Frontend)
 - Eureka for service discovery
-
-@Created By:
-@AnisGhabi @FawziAbdellaoui @SirineTrabelsi
